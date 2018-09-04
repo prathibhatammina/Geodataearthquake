@@ -1,0 +1,12 @@
+.map-box {
+  width: 95%;
+  height: 35rem;
+  margin: 1%;
+  border:5px #99aabd solid;
+  border-radius: 15px;
+}
+.card {
+  margin: 3%;
+  border: 5px #99aabd solid;
+  border-radius: 15px;
+}
