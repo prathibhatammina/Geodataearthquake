@@ -1,0 +1,23 @@
+{
+  "name": "geodataearthquake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathibhatammina/Geodataearthquake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathibhatammina/Geodataearthquake/issues"
+  },
+  "homepage": "https://github.com/prathibhatammina/Geodataearthquake#readme",
+  "dependencies": {
+    "concurrently": "^4.0.1",
+    "express": "^4.16.3"
+  }
+}
